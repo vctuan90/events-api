@@ -345,9 +345,3 @@ backend/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 📞 Support
-
-For support and questions:
-- Email: support@straumann-event.com
-- Documentation: http://localhost:8000/docs 
